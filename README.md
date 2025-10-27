@@ -1,3 +1,3 @@
-This is power of project
+This is my first repository
 
 shahroz ali
